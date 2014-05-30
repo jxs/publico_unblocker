@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
 
-    "name": "Publico unblocker",
+    "name": "Publico paywall unblocker",
     "description": "Extension to unblock Publico newspaper read limit",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icons": {
         "128": "icon.png"
     },
